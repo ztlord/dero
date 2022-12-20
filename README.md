@@ -1,0 +1,2 @@
+# dero
+Minar dero ergo
